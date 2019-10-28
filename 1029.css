@@ -1,0 +1,26 @@
+body{
+    margin:0;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+.slide{
+    width: 1000px;
+    height: 600px;
+}
+.slide ul{
+    width: 5000px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.slide ul li{
+    display: inline-block;
+}
+img{
+    width: 1000px;
+}
